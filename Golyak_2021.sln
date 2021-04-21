@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fataliti", "Fataliti\Fataliti.csproj", "{66BEB03E-C0FA-4705-A53A-59A7E5ADB5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66BEB03E-C0FA-4705-A53A-59A7E5ADB5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BEB03E-C0FA-4705-A53A-59A7E5ADB5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BEB03E-C0FA-4705-A53A-59A7E5ADB5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BEB03E-C0FA-4705-A53A-59A7E5ADB5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {241A513D-1F32-4273-A2BD-447EE8D38924}
+	EndGlobalSection
+EndGlobal

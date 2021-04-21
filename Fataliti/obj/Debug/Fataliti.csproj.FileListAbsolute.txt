@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\Golyak_2021\Fataliti\obj\Debug\Fataliti.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Golyak_2021\Fataliti\bin\Debug\Fataliti.exe.config
+C:\Users\golya\source\repos\Golyak_2021\Fataliti\bin\Debug\Fataliti.exe
+C:\Users\golya\source\repos\Golyak_2021\Fataliti\bin\Debug\Fataliti.pdb
+C:\Users\golya\source\repos\Golyak_2021\Fataliti\obj\Debug\Fataliti.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\Golyak_2021\Fataliti\obj\Debug\Fataliti.exe
+C:\Users\golya\source\repos\Golyak_2021\Fataliti\obj\Debug\Fataliti.pdb
